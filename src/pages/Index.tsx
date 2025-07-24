@@ -54,6 +54,10 @@ const Index = () => {
                   <span className="bg-gradient-accent bg-clip-text text-transparent font-semibold">
                     ELD Services
                   </span>
+                  <br />
+                  <span className="text-[34px] font-light text-muted-foreground no-underline before:hidden after:hidden">
+                    (Sehaj E-logs)
+                  </span>
                 </h1>
 
                 <div className="w-24 h-1 bg-gradient-accent mx-auto rounded-full" />
